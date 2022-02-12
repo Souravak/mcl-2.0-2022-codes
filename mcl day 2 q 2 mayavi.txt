@@ -24,4 +24,5 @@ int main() {
             cout<<"om cream kuttichatha"<<endl;
         }
     }
-}s
+
+}
